@@ -2,8 +2,6 @@
 
 ## Hi there my gorgeous friend <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px" alt="hi">
 
----
-
 I'm Shahriar, a Full Stack Web Application Developer from <img src="assets/img/bangladesh.png" width="18"/> Bangladesh. I love building efficient, scalable solutions that enhance user experience and business operations.
 
 🍵 Connect with me!
